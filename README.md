@@ -48,7 +48,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/zuonao.git
+git clone https://github.com/ip9988001/zuonao20260621.git
 cd zuonao
 ```
 
