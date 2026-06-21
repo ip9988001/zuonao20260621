@@ -1,0 +1,55 @@
+{
+  "version": "3.10",
+  "bitmap_size": 8192,
+  "hash_index": {
+    "17106207056781019483": 0
+  },
+  "nodes": [
+    {
+      "text": "用户喜欢用黑色主题",
+      "category": "偏好",
+      "workspace": "global",
+      "strength": 100,
+      "edges": [],
+      "source": "2026-06-21 16:09 · 手动学习",
+      "session_id": "20260621-160906-db01",
+      "learned_at": "2026-06-21T16:09:06",
+      "access_count": 0,
+      "last_accessed": 0,
+      "created_at": 1782029346.285547
+    }
+  ],
+  "updated_at": "2026-06-21T16:09:06.285547",
+  "learn_count": 1,
+  "query_count": 0,
+  "search_count": 0,
+  "correct_count": 0,
+  "analyze_count": 0,
+  "summarize_count": 0,
+  "entangle_count": 0,
+  "token_savings": 12,
+  "first_use_at": "2026-06-21T16:09:06.075440",
+  "auto_mode": true,
+  "short_q_count": 0,
+  "long_q_count": 0,
+  "medium_q_count": 0,
+  "scene_counts": {},
+  "_today": "2026-06-21",
+  "today_learn": 0,
+  "today_query": 0,
+  "today_search": 0,
+  "today_correct": 0,
+  "today_analyze": 0,
+  "today_summarize": 0,
+  "today_entangle": 0,
+  "today_tokens": 0,
+  "context_stack": {
+    "stack": []
+  },
+  "user_profile": {
+    "interest_vector": {},
+    "depth_type": "balanced",
+    "active_hours": {},
+    "recommended_history": []
+  }
+}
